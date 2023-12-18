@@ -1,4 +1,7 @@
 # Projects in Machine Learning
-python3
+
+Implemented in Python on colab:
+
 // Movie Recommendation System
+
 // Digit Recognition using KNN algorithm
